@@ -2,7 +2,7 @@ document.addEventListener("DOMContentLoaded", function () {
   const songs = [
     {
       title: "Song 1",
-      url: "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      url: "https://soundcloud.com/dirtyworkzofficial/refuzion-out-of-my-mind?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing",
     },
     {
       title: "Song 2",
